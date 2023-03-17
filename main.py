@@ -6,4 +6,5 @@ for i in range(1, 11):
 print('Bye, world!')
 
 name = input('Enter your name: ')
+age = int(input(f'Enter your age: '))
 print(f'Hi, {name}!')
